@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Sreeram Teja Sri Ajay</h1>
-<p>A passionate Full Stack Developer from India</p>
+<p>A passionate and versatile Full Stack Developer from India 🇮🇳. With a strong foundation in both frontend and backend technologies, I specialize in building robust web applications using React.js, Node.js, MongoDB, PostgreSQL, and more. I enjoy transforming creative ideas into fully functional, user-friendly interfaces, and I’m always eager to learn and explore new tools and frameworks. Whether it's crafting APIs, designing responsive UI, or diving into system design, I love solving real-world problems through clean and efficient code.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 
